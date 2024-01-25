@@ -6,3 +6,5 @@ As a sneaker head, I faced challenges purchasing my favorite pairs. To address t
   - I have experience with JavaScript and Python :wrench:
   - Currently, I am expanding my knowledge with Ruby :diamonds: and React Native :iphone:
   - I build software to solve my daily life challenges... so what's next? :shipit:
+
+START_SECTION:waka--><!--END_SECTION:waka_d3f94789-b3ce-459b-ab6c-433ca90f1b04
