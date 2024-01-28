@@ -5,6 +5,8 @@ As a sneaker head, I faced challenges purchasing my favorite pairs. To address t
   - I am a senior in Computer Science at the University of South Florida :school:
   - I have experience with JavaScript and Python :wrench:
   - Currently, I am expanding my knowledge with Ruby :diamonds: and React Native :iphone:
+  - I have been performing my own music that I produce live on Fox News 📺
+  - I believe that there is no limit on my learning path 📖
   - I build software to solve my daily life challenges... so what's next? :shipit:
 
 <figure><embed src="https://wakatime.com/share/@c7fc2726-6cba-4632-ae96-352ed27058a4/28cd459e-bc05-4b8b-bbc3-0e7c6a206324.svg"></embed></figure>
