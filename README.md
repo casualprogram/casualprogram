@@ -8,5 +8,5 @@ As a sneaker head, I faced challenges purchasing my favorite pairs. To overcome 
   - I have performed my own music that I produced live on Fox News 📺
   - I believe that there is no limit on my learning path 📖
   - I build software to solve my daily life challenges... so what's next? :shipit:
-    - Currently, building my 3rd startup, check it out -> <embed src="https://x.com/CasualAIO"></embed>
+    - Currently, building my 3rd startup, check it out -> <embed src="https://x.com/CasualAIO">CasualAIO</embed>
 <figure><embed src="https://wakatime.com/share/@c7fc2726-6cba-4632-ae96-352ed27058a4/28cd459e-bc05-4b8b-bbc3-0e7c6a206324.svg"></embed></figure>
