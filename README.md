@@ -7,7 +7,7 @@ As a sneaker head, I faced challenges purchasing my favorite pairs. To overcome 
   - Currently, I am expanding my knowledge with Ruby :diamonds: and React Native :iphone:
   - I have performed my own music that I produced live on Fox News 📺
   - I believe that there is no limit on my learning path 📖
-  - I build software to solve my daily life challenges... so what's next? :shipit:
-    - Currently, building my 3rd startup, check it out -> [Casual Solutions](https://x.com/CasualAIO)
+  - I build software to solve my daily life challenges...
+    - Currently, building my 3rd startup, check it out -> [Casual Solutions](https://x.com/CasualAIO) :shipit:
 
 
